@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **University of Ruhuna.**
 
-- 🌱 I’m currently learning **Flutter, React, MongoDB**
+- 🌱 I’m currently learning **SpringBoot and React**
 
 - 📫 How to reach me **hirunishanirmani@gmail.com**
 
