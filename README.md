@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;+I'm+Hirunisha+Nirmani;&font=Righteous&size=35&center=true&width=450&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-<h1 align="center">Hi 👋, </h1>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;+I'm+Hirunisha+Nirmani;&font=Righteous&size=35&center=true&width=450&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 <h3 align="center">A passionate UI design developer and Quality Assuarance Engineer </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirunisha-nirmani&label=Profile%20views&color=0e75b6&style=flat" alt="hirunisha-nirmani" /> </p>
