@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align= "center">
 <a href ="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,css,c,php,py,mongodb,mysql,nodejs,npm,react,spring,postman,vscode,idea,git,flutter,materialui,azure,arduino,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,css,c,php,py,mongodb,mysql,nodejs,npm,react,spring,postman,vscode,idea,git,flutter,materialui,azure,arduino,figma,linux,selenium,testNG,playwright, k^ load testing" />
   </a>
 </div>
  
