@@ -4,9 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirunisha-nirmani&label=Profile%20views&color=0e75b6&style=flat" alt="hirunisha-nirmani" /> </p>
 
-- 🔭 I’m currently studying at **University of Ruhuna.**
-
-- 🌱 I’m currently learning **SpringBoot and React**
+- 🌱 I’m currently learning **Playwirght with java**
 
 - 📫 How to reach me **hirunishanirmani@gmail.com**
 
